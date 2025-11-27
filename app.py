@@ -26,7 +26,7 @@ def load_business_advisor():
 
 # Configure the page
 st.set_page_config(
-    page_title="CyberGuardian AI",
+    page_title="Echelon AI",
     page_icon="🔒",
     layout="wide",
     initial_sidebar_state="expanded"
